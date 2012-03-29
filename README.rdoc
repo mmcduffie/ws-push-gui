@@ -1,0 +1,3 @@
+== ws-push-gui
+
+"ws-push-gui" is an experiment in setting up a canvas area on a webpage that is updated on-the-fly via pushes from the server on a websocket. 
